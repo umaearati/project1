@@ -1,3 +1,10 @@
 env
 .env
 project1.egg-info
+venv/
+__pycache__/
+logs/
+*.pyc
+test.py
+
+
