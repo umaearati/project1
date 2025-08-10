@@ -120,4 +120,4 @@ if __name__ == "__main__":
     
     # to run this File
     # cd /Users/nanimahi/project1
-    # python -m src.document_analyzer.data_ingestion
+    # python -m src.document_analyzer.data_ingestion 
